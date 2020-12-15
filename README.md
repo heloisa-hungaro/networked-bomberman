@@ -1,2 +1,3 @@
-# networked-bomberman
-A networked multiplayer game (client/server)
+# Bomberman Game
+A networked multiplayer bomberman game (client/server)
+<br/>Language: pt_BR
